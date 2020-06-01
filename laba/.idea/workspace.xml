@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d6b612a-afcc-46bb-a6f5-d27904b79619" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4x3l4XvJaBEtQZcNAW6Rk50td" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Labs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba.Labs" />
+      <module name="laba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="laba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Labs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d6b612a-afcc-46bb-a6f5-d27904b79619" name="Default Changelist" comment="" />
+      <created>1582215470795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582215470795</updated>
+      <workItem from="1582215473264" duration="127000" />
+      <workItem from="1582235199582" duration="75000" />
+      <workItem from="1582236505456" duration="249000" />
+      <workItem from="1582267907615" duration="10000" />
+      <workItem from="1582280012710" duration="2912000" />
+      <workItem from="1582305212425" duration="2556000" />
+      <workItem from="1582402667713" duration="3208000" />
+      <workItem from="1582456781388" duration="11296000" />
+      <workItem from="1582493338197" duration="1412000" />
+      <workItem from="1582526095831" duration="281000" />
+      <workItem from="1582537225094" duration="37120000" />
+      <workItem from="1582723830720" duration="2572000" />
+      <workItem from="1582809400001" duration="264000" />
+      <workItem from="1582835139774" duration="1217000" />
+      <workItem from="1582838193371" duration="608000" />
+      <workItem from="1582876171464" duration="4173000" />
+      <workItem from="1582894678740" duration="1226000" />
+      <workItem from="1583004289795" duration="59000" />
+      <workItem from="1583013663543" duration="8445000" />
+      <workItem from="1583153589759" duration="34764000" />
+      <workItem from="1583243130346" duration="497000" />
+      <workItem from="1583259883470" duration="2940000" />
+      <workItem from="1583320243404" duration="283000" />
+      <workItem from="1583361761962" duration="350000" />
+      <workItem from="1583414112703" duration="829000" />
+      <workItem from="1584544049610" duration="94000" />
+      <workItem from="1584811851634" duration="11000" />
+      <workItem from="1585849001368" duration="734000" />
+      <workItem from="1585852572790" duration="58000" />
+      <workItem from="1588703260119" duration="7172000" />
+      <workItem from="1589931048888" duration="1217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1582235280075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582235280075" />
+    <state x="214" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582738883916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="214" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582738883916" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1582630394908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582630394908" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582550048987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582550048987" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583014156502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583014156502" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1588761851890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588761851890" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1588761851890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588761851890" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1588761851890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588761851890" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1588761851890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588761851890" />
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1582236762231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582236762231" />
+    <state width="1342" height="242" key="GridCell.Tab.1.center" timestamp="1582236762231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582236762231" />
+    <state width="1342" height="242" key="GridCell.Tab.1.left" timestamp="1582236762231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582236762231" />
+    <state width="1342" height="242" key="GridCell.Tab.1.right" timestamp="1582236762231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582236762231" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588703260090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588703260090" />
+    <state x="209" y="33" key="new project wizard" timestamp="1583426144193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583426144193" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/laba$Labs.ic" NAME="Labs Coverage Results" MODIFIED="1582558200223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>laba.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+Client name is : <<John>> 
+Line from John : Message
+Message
+Waiting for the next line...
